@@ -8,7 +8,7 @@ module OP;
 	 c = a/b; //c=3
 	 $display("c = 10/3 :: a = %0d b = %0d c = %0d", a , b, c);
 
-	 //Integer division truncates any fractional part to 0
+	 
 	 a = 3.4; b = 2.3; //Truncate a and b since they are integers
 	 c = a/b; //c=1
 	 $display("integer c = 3.4/2.3 :: a = %0f b = %0f c = %0f",a , b, c);
