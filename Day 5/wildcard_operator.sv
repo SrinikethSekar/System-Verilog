@@ -13,6 +13,7 @@ module OP;
 	 A1!=? A2);
  end
 endmodule
+
 // # KERNEL: A1='hff A2='hxx : A1==? A2 = boolean 1
 // # KERNEL: A1='hff A2='hxx : A1!=? A2 = boolean 0
 // # KERNEL: A1='hxx A2='hff : A1==? A2 = boolean x
