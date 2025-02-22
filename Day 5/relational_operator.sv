@@ -39,7 +39,6 @@ endmodule
 // # KERNEL:  'x >= 2 = boolean x
 // # KERNEL:  'x <= 2 = boolean x
 // # KERNEL: 
-// # KERNEL: 
 // # KERNEL: '-1 > -2 = boolean 1
 // # KERNEL: 
 // # KERNEL: Following two are the same
