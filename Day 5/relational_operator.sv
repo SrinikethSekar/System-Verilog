@@ -42,7 +42,6 @@ endmodule
 // # KERNEL: 
 // # KERNEL: '-1 > -2 = boolean 1
 // # KERNEL: 
-// # KERNEL: 
 // # KERNEL: Following two are the same
 // # KERNEL: a=2 b=3 : a < b - 1 = 0
 // # KERNEL: a=2 b=3 : a < (b - 1) = 0
