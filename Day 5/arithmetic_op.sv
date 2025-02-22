@@ -44,9 +44,7 @@ endmodule
 // # KERNEL: c = 10/3 :: a = 10 b = 3 c = 3
 // # KERNEL: integer c = 3.4/2.3 :: a = 3.000000 b = 2.000000 c = 1.000000
 // # KERNEL: real g = 3.4/2.3 :: e = 3.400000 f = 2.300000 g = 1.478261
-// # KERNEL: 
 // # KERNEL: A to the Power of B 
-// # KERNEL: 
 // # KERNEL: integer c = 3.4**2.3 :: a = 3.000000 b = 2.000000 c = 9.000000
 // # KERNEL: real g = 3.4**2.3 :: e = 3.400000 f = 2.300000 g = 16.687893
 // # KERNEL: real g = 9**.5 :: e = 9.000000 f = 0.500000 g = 3.000000
