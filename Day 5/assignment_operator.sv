@@ -20,7 +20,7 @@ module OP;
 		 $display("b = ++a + ++c :: a = %0d c = %0d b = %0d",a,c,b);
 		 a = 10; c = 10;
 		 b = a++ + c++;
-		 //Assign a+c to b frst; then increment a and c
+		 //Assign a+c to b frst;then increment a and c
 		 $display("b = a++ + c++ :: a = %0d c = %0d b = %0d",a,c,b);
  end
 endmodule
