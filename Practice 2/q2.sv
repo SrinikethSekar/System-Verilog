@@ -1,5 +1,5 @@
 2. Write a SystemVerilog program to resize a dynamic array. First, allocate 5 elements, then resize it to 10 and display all values.
-
+  
 module dyn_arry;
   
   int arr[];
